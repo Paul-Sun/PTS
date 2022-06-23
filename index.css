@@ -67,7 +67,12 @@ header {
 .logo-span{
   font-size: 150%;
   font-style: italic;  
-  letter-spacing: -1px;    
+  letter-spacing: -1px; 
+  color:#1792d2   
+  
+}
+.site-title {
+    padding-top: 10px;
 }
 /* navigation */
 .article-title{
