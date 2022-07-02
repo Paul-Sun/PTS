@@ -21,7 +21,19 @@ h1 {
     font-size: 2rem;
     margin: 0;
 }
+h3{
+    color: #1792d2;
+}
 
+form {
+                background: #efefef;
+                padding: 2em;
+            }
+input, select {
+                margin-bottom: 1em;
+                padding: .25em;
+                border: 0;
+            }
 .subtitle {
     font-weight: 700;
     color: #1792d2;
@@ -70,6 +82,10 @@ header {
   letter-spacing: -1px; 
   color:#1792d2   
   
+}
+.active{
+ 
+    text-decoration: underline;
 }
 .site-title {
     padding-top: 10px;
